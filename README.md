@@ -1,4 +1,4 @@
-# Wireless Network Security Labs
+# Kali Linux Security Labs
 
 Hands-on wireless security work carried out in my home lab, using Kali Linux and a dedicated wireless test environment. All work was performed against my own equipment and isolated test networks — no third-party or production networks were involved.
 
